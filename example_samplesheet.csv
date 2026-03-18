@@ -1,4 +1,0 @@
-sample,fastq_1,fastq_2
-coral_sample1,data/raw/coral_sample1_R1.fastq.gz,data/raw/coral_sample1_R2.fastq.gz
-sponge_sample1,data/raw/sponge_sample1_R1.fastq.gz,data/raw/sponge_sample1_R2.fastq.gz
-seawater_ctrl,data/raw/seawater_ctrl_R1.fastq.gz,data/raw/seawater_ctrl_R2.fastq.gz
